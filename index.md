@@ -6,5 +6,5 @@ This website showcases a few of our favorite games. Click on the links below to 
 
 - [Artem - Detroit: Become human](detroitbecomehuman.html)
 - [Kacper - Dead by Daylight](deadbydaylight.html)
-- [Jasiek - Game 3](game3.html)
+- [Jasiek P. - CS2](cs2.html)
 - [Janek S. - Dispatch](dispatch.html)
