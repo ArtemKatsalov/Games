@@ -6,7 +6,7 @@ Counter-Strike 2 to darmowa aktualizacja gry CS:GO, która przeniosła jedną z 
 
 Największą rewolucją w CS2 jest wprowadzenie dynamicznych granatów dymnych, które teraz reagują na otoczenie, oświetlenie oraz wystrzały. Dym wypełnia przestrzenie w sposób naturalny, a gracze mogą tworzyć w nim tymczasowe "dziury" za pomocą kul lub granatów odłamkowych, co otwiera zupełnie nowe możliwości taktyczne. System ten sprawia, że każda runda może przebiegać w zupełnie inny sposób, wymuszając na zawodnikach ciągłą adaptację.
 
-![CS2 Smoke Graphics](https://cdn.akamai.steamstatic.com/steam/apps/730/ss_e1e194856ee252e69f8fae54625b03875eb02a11.1920x1080.jpg)
+![CS2 Smoke Graphics](https://blog.cs.trade/wp-content/uploads/2024/03/Picture2-1.jpg)
 
 Pod względem technologicznym CS2 wprowadza system "sub-tick", który eliminuje tradycyjne ograniczenia częstotliwości odświeżania serwera (tickrate). Dzięki temu serwer dokładnie wie, w którym momencie oddano strzał lub rzucono granat, niezależnie od tego, co dzieje się między taktami. Przekłada się to na niespotykaną wcześniej responsywność i sprawiedliwość rozgrywki, co jest kluczowe w profesjonalnych turniejach e-sportowych.
 
@@ -14,7 +14,7 @@ Mapy w CS2 zostały podzielone na trzy kategorie: te całkowicie przebudowane, u
 
 Counter-Strike 2 to nie tylko technologia, ale przede wszystkim potężna społeczność i rynek przedmiotów kosmetycznych (skinów). Wszystkie przedmioty zdobyte w CS:GO zostały przeniesione do nowej wersji, zyskując na wyglądzie dzięki nowemu systemowi oświetlenia. Gra pozostaje liderem na platformie Steam, przyciągając codziennie miliony graczy, którzy rywalizują w trybach rankingowych oraz premierowych o miano najlepszych strzelców świata.
 
-![CS2 Gameplay](https://cdn.akamai.steamstatic.com/steam/apps/730/ss_2b71457493a38806282928646b30644837482810.1920x1080.jpg)
+![CS2 Gameplay](https://i.ytimg.com/vi/EA1LzVMSj-s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBLjmkt4PUVRxSrM2HbZpCdxV98zg)
 
 ### Podstawowe informacje o grze
 | Kategoria | Szczegóły |
